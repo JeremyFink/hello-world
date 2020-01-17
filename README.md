@@ -4,5 +4,7 @@ This is a 2nd test file. I created an edit to this file. I will test and reinfor
 
 A second line of additions was needed.
 
+After watching the video, I want to cement the learning by typing. Laila is here.
+
 JDF
 1/16/2020
